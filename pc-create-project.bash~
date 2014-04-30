@@ -1,0 +1,8 @@
+#!/bin/bash
+
+~/Downloads/android-sdk-mac_86/tools/android create project \
+  --target 2 \
+  --name PCWallpaper \
+  --path PCWallpaper \
+  --activity PCWallpaper \
+  --package philcolbourn.PCWallpaper
